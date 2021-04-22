@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PaoloBezzina
 - 👀 I’m interested in Artificial Intelligence and Web Application Development
 - 🌱 I’m currently learning Artificial Intelligence
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<!--- - 💞️ I’m looking to collaborate on ... --->
+- 📫 How to reach me paolobezzina@outlook.com
 
 <!---
 PaoloBezzina/PaoloBezzina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
